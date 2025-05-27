@@ -23,7 +23,7 @@ Visualisation d’accidents de la route à partir d’une base de données. Requ
 
 ## Projet de simulation physique
 
-### [PHYSICS_Electromagnetic_Simulation](https://github.com/etienne-bnd/PHYSICS_Electromagnetic_Simulation)
+### [PHYSICS_Electromagnetic_Simulations](https://github.com/etienne-bnd/PHYSICS_Electromagnetic_Simulation)
 Simulation numérique d’ondes électromagnétiques dans le cadre d’un projet sur la création de matériaux absorbants.
 
 ---

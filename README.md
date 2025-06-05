@@ -38,4 +38,11 @@ Développement d’un jeu de Sokoban en Java dans un cadre d’introduction à l
 
 ---
 
+### [MNIST_Decision_Tree](https://github.com/etienne-bnd/mnist_decision_tree)  
+Classification d’images manuscrites de chiffres du dataset MNIST à l’aide d’un modèle supervisé **arbre de décision** (`DecisionTreeClassifier` de `scikit-learn`). Projet réalisé dans le cadre d’un cours d’intelligence artificielle à l’université de Trente.  
+Ce projet inclut l’entraînement, la visualisation des résultats (précision, prédictions sur images aléatoires) ainsi qu’une analyse simple des performances.
+
+---
+
 📌 Pour plus de détails, les dépôts ci-dessus contiennent README et fichiers de travail associés.
+

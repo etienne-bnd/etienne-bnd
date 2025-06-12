@@ -6,9 +6,6 @@
 
 ## Projets d’intelligence artificielle
 
-### [IA_Hands_Detection](https://github.com/etienne-bnd/IA_Hands_Detection)
-Détection en temps réel d’une main avec TensorFlow. Projet réalisé en 2022 dans le cadre de l’association **Automatant** à CentraleSupélec, en s’appuyant sur un article de recherche. Le notebook contient également des notes personnelles d’apprentissage.
-
 ### [IA_Computer_Vision](https://github.com/etienne-bnd/IA_Computer_Vision)
 Projet réalisé à l’Université de Trente : détection de joueurs sur un terrain de volley à partir de vidéos. Utilisation de techniques de vision par ordinateur.
 
@@ -16,6 +13,9 @@ Projet réalisé à l’Université de Trente : détection de joueurs sur un ter
 ### [MNIST_Decision_Tree](https://github.com/etienne-bnd/mnist_decision_tree)  
 Classification d’images manuscrites de chiffres du dataset MNIST à l’aide d’un modèle supervisé **arbre de décision** (`DecisionTreeClassifier` de `scikit-learn`). Projet réalisé dans le cadre d’un cours d’intelligence artificielle à l’université de Trente.  
 Ce projet inclut l’entraînement, la visualisation des résultats (précision, prédictions sur images aléatoires) ainsi qu’une analyse simple des performances.
+
+### [IA_Hands_Detection](https://github.com/etienne-bnd/IA_Hands_Detection)
+Détection en temps réel d’une main avec TensorFlow. Projet réalisé en 2022 dans le cadre de l’association **Automatant** à CentraleSupélec, en s’appuyant sur un article de recherche. Le notebook contient également des notes personnelles d’apprentissage.
 
 ---
 
